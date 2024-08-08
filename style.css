@@ -1,0 +1,141 @@
+body{
+    background: rgb(148,187,233);
+    background: radial-gradient(circle, rgba(148,187,233,1) 0%, rgba(238,174,202,1) 100%);
+}
+
+h1, h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 400%;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    border-radius: 300%;
+    background-color: antiquewhite;
+    color: deeppink;
+}
+
+
+.presentacion span {
+    font-style: normal;
+    color: antiquewhite;
+}
+
+.presentacion {
+    padding-left: 18%;
+    font-size: 50%;
+    color: darkorchid;
+}
+
+span.corazon {
+    color: deeppink;
+}
+
+.sobreMi {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    margin-left: 7%;
+    color: antiquewhite;
+}
+
+span {
+    color: darkorchid;
+    font-weight: bold;
+}
+
+
+.intereses p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+
+.tabla {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 250%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+a.musica, #Musica {
+    color: rgb(69, 9, 99);
+}
+
+a.danza, #Danza { 
+    color: rgb(105, 21, 146);
+}
+
+a.escritura, #Escritura {
+    color: darkorchid;
+}
+
+a.ideas, #Ideas {
+    color: rgb(183, 84, 233);
+}
+
+h3 {
+    font-size: x-large;
+    font-style: normal;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: antiquewhite;
+}
+
+.contacto {
+    font-style: normal;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: antiquewhite;
+}
+
+.desarrolloIntereses {
+    font-style: normal;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: white;
+}
+
+
+footer {
+    width: 100%;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: smaller;
+    color: darkorchid;
+}
+
+.bandcamp {
+    color: deeppink;
+}
+
+img.conejito {
+    position: relative;
+    float: right;
+    margin-right: -8px;
+    padding-top: 0.5px;
+    width: 300px;
+}
+
+img.niñaDanza {
+    width: 400px;
+    border-radius: 5%;
+}
+
+img.tocando {
+    width: 400px;
+    border-radius: 5%;
+}
+
+img.p51 {
+    width: 400px;
+    border-radius: 5%; 
+}
+
+img.p52 {
+    width: 400px;
+    border-radius: 5%;
+}
